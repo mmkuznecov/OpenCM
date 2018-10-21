@@ -5,18 +5,18 @@ Clever's Gitbook: https://clever.copterexpress.com
 
 ## Getting Started
 
-Add programm
+Add programm video_writer.py
 
 ## Requirements
 
-* OpenCV (Open Source Computer Vision Library)
-* PIL (Python Imaging Library)
+Clever's .img file for Raspberry Pi
 
 ## Authors
 
 * **Mikhail Kuznetsov**
 * **Igor Nurullaev**
 * **Andrey Zinovyev**
+* **Georgy Fatakhov**
 
 ## License
 
