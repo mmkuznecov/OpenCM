@@ -5,7 +5,7 @@ Clever's Gitbook: https://clever.copterexpress.com
 
 ## Getting Started
 
-Add programm video_writer.py
+Add programm video_writer.py to Clever's image
 
 ## Requirements
 
