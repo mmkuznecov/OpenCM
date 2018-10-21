@@ -1,0 +1,2 @@
+Number of people: 10
+Duration of video: 33.05
